@@ -1,0 +1,14 @@
+# Logs
+logs
+*.log
+
+# Docker
+*.pid
+*.sock
+
+# System
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
